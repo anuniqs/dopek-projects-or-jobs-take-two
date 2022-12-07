@@ -20,6 +20,12 @@
 
 <br>
 
+#### Code,
+
+`anup@ubuntu-2210-55-jenkins:~/labs/maven-project-take2-webapp/src/main/webapp$ cat index.jsp` 
+
+<br>
+
 #### Git control,
 
 `anup@ubuntu-2210-55-jenkins:~/labs/maven-project-take2-webapp$ touch README.md`
